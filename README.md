@@ -93,10 +93,6 @@ node .
 * `prefixes` are seperated by each character
 Set prefix
 
-### `--db <your mongodb url>`
-
-Open the package.json file and fill in your mongodb url in the `mongodb: --db mongodb url` section!
-
 ## `--server`
 * Used for [heroku](https://heroku.com/) or scan through website
 
@@ -114,7 +110,7 @@ Open the package.json file and fill in your mongodb url in the `mongodb: --db mo
 * No bot, just print received messages and add users to database
 
 ## `--test`
-* **Development** Testing Mode 
+* **Development** Testing Mode *
 
 ## `--self`
 * **Only Owner & Bot** 
